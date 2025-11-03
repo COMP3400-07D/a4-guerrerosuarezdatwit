@@ -1,3 +1,6 @@
+//Daniel Guerrero
+//W00427795
+
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdio.h>
